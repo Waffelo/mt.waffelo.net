@@ -46,8 +46,11 @@ body {
 
 .header-ip {
   float: right;
-  color: #ffffff80;
+  color: orange;
   font-weight: 500;
+  border: 2px dashed orange;
+  padding: 5px;
+  font-weight: ;
 }
 
 .header-ip-m {
